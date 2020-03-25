@@ -55,4 +55,7 @@ public interface IUserDao {
      * @return
      */
      List<User> findUserByVo(QueryVo vo);
+    /**
+     * 测试
+     */
 }
